@@ -1,0 +1,154 @@
+/* 
+  @author Yudi Candra
+  UTS Pemrograman WEB 2
+*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+html, body{
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container{
+  height: 100vh;
+}
+
+input[type=text],
+input[type=password] {
+      box-sizing : border-box;
+}
+
+.d-flex{
+  display: flex!important;
+  box-sizing: border-box;
+}
+.justify-content-center{
+  justify-content: center;
+}
+.justify-content-between{
+  justify-content: space-between;
+}
+.align-item-center{
+  align-items: center;
+}
+.form-control{
+  border: 1px solid #fff;
+  border-radius: 5px;
+  height: 55px;
+  width: 100%;
+  color: #696969;
+  display: block;
+  padding: 0 10px;
+  font-size: 24px;
+}
+.form-control:focus{
+  outline: 0 !important;
+  border-color: #fff;
+  box-shadow: none;
+  -webkit-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.13);
+  -moz-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.13);
+  box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.13);
+}
+
+.shadow{
+  -webkit-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.13);
+  -moz-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.13);
+  box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.13);
+}
+.card {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+}
+.card-body {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+.form-input{
+  width:auto;
+}
+.w-40{
+  width: 40%!important;
+}
+.w-80{
+  width: 80%!important;
+}
+.w-100{
+  width: 100%!important;
+}
+.btn{
+  padding: 15px 24px;
+  border: none;
+  background: #304FFE;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.mt-10{
+  margin-top: 10px;
+}
+
+.m-10{
+  margin: 10px;
+}
+
+.m-5{
+  margin: 5px;
+}
+
+.p-5{
+  padding: 5px;
+}
+
+.p-10{
+  padding: 10px;
+}
+.center{
+  text-align: center;
+}
+.navbar{
+  background: #fff;
+}
+.menu{
+  position: absolute;
+  right: 0;
+  padding: 5px;
+  margin-right:20px;
+}
+.nav-link{
+  list-style-type: none;
+  padding: 10px;
+}
+.link{
+  text-decoration: none;
+  padding: 10px;
+  color: #696969;
+}
+.link:hover{
+  background: #5f27cd;
+  color: #fff;
+  padding: 10px;
+  border-radius: 7px;
+}
+.active{
+  background: #304FFE;
+  color: #fff;
+  padding: 10px;
+  border-radius: 7px;
+}
+.logo{
+  padding: 5px 0 5px 20px;
+}
