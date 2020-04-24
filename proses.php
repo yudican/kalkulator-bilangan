@@ -3,6 +3,7 @@
 /* 
   @author Yudi Candra
   UTS Pemrograman WEB 2
+  repositori https://github.com/yudican/kalkulator-bilangan.git
 */ 
     include('simpan.php');
 
@@ -51,4 +52,5 @@
   /* 
   @author Yudi Candra
   UTS Pemrograman WEB 2
+  repositori https://github.com/yudican/kalkulator-bilangan.git
 */

@@ -2,6 +2,7 @@
 /* 
   @author Yudi Candra
   UTS Pemrograman WEB 2
+  repositori https://github.com/yudican/kalkulator-bilangan.git
 */
 class Simpan {
   function decToBin($angka)
@@ -168,6 +169,7 @@ class Simpan {
   @author Yudi Candra
   171011401613
   UTS Pemrograman WEB 2
+  repositori https://github.com/yudican/kalkulator-bilangan.git
 */
   function binToOct($angka)
   {
@@ -214,6 +216,7 @@ class Simpan {
   @author Yudi Candra
   171011401613
   UTS Pemrograman WEB 2
+  repositori https://github.com/yudican/kalkulator-bilangan.git
 */
 
   function octToHex($angka)
@@ -268,4 +271,5 @@ class Simpan {
 /* 
   @author Yudi Candra
   UTS Pemrograman WEB 2
+  repositori https://github.com/yudican/kalkulator-bilangan.git
 */

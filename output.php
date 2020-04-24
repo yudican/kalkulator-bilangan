@@ -2,6 +2,7 @@
 /* 
   @author Yudi Candra
   UTS Pemrograman WEB 2
+  repositori https://github.com/yudican/kalkulator-bilangan.git
 */
 ?>
 <!DOCTYPE html>
