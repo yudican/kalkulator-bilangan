@@ -8,3 +8,7 @@ fitur:
 5. Octal ke Biner
 6. Octal Ke Desimal
 7. dan lain lain
+
+# Tentang
+Aplikasi web ini dibuat untuk tugas UTS permrograman WEB 2 Universitas Pamulang
+author: Yudi Candra 06TPLP015
