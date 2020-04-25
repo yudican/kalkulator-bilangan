@@ -10,5 +10,5 @@ fitur:
 7. dan lain lain
 
 # Tentang
-Aplikasi web ini dibuat untuk tugas UTS permrograman WEB 2 Universitas Pamulang
+Aplikasi web ini dibuat untuk tugas UTS permrograman WEB 2 Universitas Pamulang <br>
 author: Yudi Candra 06TPLP015
